@@ -1,0 +1,8 @@
+C:\Users\Madrogad\Desktop\ASP_MVC3_PDF_Reporting_src\MvcReportGeneratorDemo\bin\MvcReportGeneratorDemo.dll
+C:\Users\Madrogad\Desktop\ASP_MVC3_PDF_Reporting_src\MvcReportGeneratorDemo\bin\MvcReportGeneratorDemo.pdb
+C:\Users\Madrogad\Desktop\ASP_MVC3_PDF_Reporting_src\MvcReportGeneratorDemo\bin\PdfReportGenerator.dll
+C:\Users\Madrogad\Desktop\ASP_MVC3_PDF_Reporting_src\MvcReportGeneratorDemo\bin\itextsharp.dll
+C:\Users\Madrogad\Desktop\ASP_MVC3_PDF_Reporting_src\MvcReportGeneratorDemo\bin\PdfReportGenerator.pdb
+C:\Users\Madrogad\Desktop\ASP_MVC3_PDF_Reporting_src\MvcReportGeneratorDemo\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Madrogad\Desktop\ASP_MVC3_PDF_Reporting_src\MvcReportGeneratorDemo\obj\Release\MvcReportGeneratorDemo.dll
+C:\Users\Madrogad\Desktop\ASP_MVC3_PDF_Reporting_src\MvcReportGeneratorDemo\obj\Release\MvcReportGeneratorDemo.pdb
