@@ -17,7 +17,8 @@ namespace MvcReportGeneratorDemo.Controllers
         {
             CustomerList customerList = CreateCustomerList();
             FillImageUrl(customerList, "report.jpg");
-            return this.ViewPdf("Customer report", "PrintDemo", customerList);
+            //return this.ViewPdf("Customer report", "PrintDemo", customerList);
+            return new EmptyResult();
         }
 
         private void FillImageUrl(CustomerList customerList, string imageName)
